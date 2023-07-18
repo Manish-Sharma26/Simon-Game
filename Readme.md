@@ -1,4 +1,5 @@
 Simon Game
+Demo:  https://manish-sharma26.github.io/Simon-Game/
 Description: 
 The Simple Simon Game is a classic memory game where players must follow a sequence of color and sound cues and replicate them correctly. This web-based version of the game brings the fun and challenge of Simon to your browser.
 
